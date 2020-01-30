@@ -1,0 +1,43 @@
+{
+  "name": "xmas-presents-api",
+  "version": "1.0.0",
+  "main": "./build/server.js",
+  "scripts": {
+    "build": "tsc -p ./",
+    "test": "",
+    "start": "node ./build/server.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioedeveloper/xmas-presents-api.git"
+  },
+  "keywords": [
+    "shadow",
+    "extension",
+    "git",
+    "git",
+    "extension",
+    "vscode",
+    "vscode",
+    "git"
+  ],
+  "author": "@ioedeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioedeveloper/xmas-presents-api/issues"
+  },
+  "homepage": "https://github.com/ioedeveloper/xmas-presents-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.0",
+    "@types/node": "^12.0.7",
+    "nodemon": "^1.19.1",
+    "tslint": "^5.17.0"
+  }
+}
