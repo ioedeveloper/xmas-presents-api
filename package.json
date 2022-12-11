@@ -30,7 +30,7 @@
   "homepage": "https://github.com/ioedeveloper/xmas-presents-api#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ts-node": "^8.2.0",
     "typescript": "^3.5.1"
   },
